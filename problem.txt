@@ -1,0 +1,1 @@
+Given the numbers 1 to 100, output "fizz" if the number is divisible by 3, "buzz" if it's divisible by 5, "fizzbuzz" if it's divisible by 3 and 5. Otherwise output the number itself.
